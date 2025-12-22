@@ -1,7 +1,12 @@
 ---
-layout: default
+layout: home
+title: Home
 ---
-# Utkarsh Dogra  
-PhD Student | Complex Fluids | Cornell University
 
-Welcome to my website!
+## About
+
+I am a PhD student at Cornell University working in **computational and molecular simulations**, with interests in statistical mechanics, stochastic processes, and numerical methods for complex systems.
+
+
+## Background
+I previously worked on continuum fluid mechanics and stability analysis, which informs my current approach to simulation and modeling.
