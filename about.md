@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-# About Me
+I am a PhD student at Cornell University specializing in **computational simulations of complex systems**.
 
-I am a PhD student at Cornell University working on complex fluids, fluid-solid interaction, and stability analysis using spectral methods.
-
-This page can include anything you want.
+While my early training was in fluid mechanics, my research direction has shifted toward simulation, numerical methods, and statistical mechanics. I am particularly interested in problems where theory, computation, and physical interpretation intersect.
