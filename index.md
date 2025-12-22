@@ -10,4 +10,3 @@ I am a PhD student at Cornell University working in **computational and molecula
 
 ## Background
 I previously worked on continuum fluid mechanics and stability analysis, which informs my current approach to simulation and modeling.
-[📄 Download CV](assets/Utkarsh_Dogra_CV.pdf){:target="_blank"}
