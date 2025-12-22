@@ -1,3 +1,9 @@
 theme: minima
 title: Utkarsh Dogra
-description: PhD Student | Complex Fluids | Cornell University
+description: PhD Student | Computational & Molecular Simulations | Cornell University
+
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - publications.md
